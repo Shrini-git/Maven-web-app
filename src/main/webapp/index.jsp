@@ -10,7 +10,5 @@
 
   <h2> This is another line </h2>
  
- 
-  <h2> This is the line added in local </h2>
 </body>
 </html>
