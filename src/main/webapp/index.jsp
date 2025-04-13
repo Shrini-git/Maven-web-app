@@ -8,7 +8,11 @@
 
   <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
 
+<<<<<<< HEAD
    <h2> This is the new line </h2>
    
+=======
+  <h2> This is the line which added on github </h2>
+>>>>>>> ae7ad551cbc9fe85222350e497122145615ba1af
 </body>
 </html>
